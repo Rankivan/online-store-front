@@ -1,2 +1,3 @@
-# online-store
-Projeto de lojas virtuais da nestertec
+# online-store-front
+
+Frontend Nuxt 3 da loja virtual (Nestertec / Rankivan).
