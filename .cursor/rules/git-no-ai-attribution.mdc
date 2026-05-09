@@ -1,0 +1,10 @@
+---
+description: Never add Cursor co-author or Made-with trailers to Git commits or PRs
+alwaysApply: true
+---
+
+# Git e PRs sem atribuição de IA
+
+Nunca adicione `Co-authored-by: Cursor`, `Made-with: Cursor`, `cursoragent@cursor.com` nem qualquer trailer de atribuição da Cursor em commits, mensagens de merge, pull requests ou comentários só para “credit” a ferramenta.
+
+Commits e PRs devem refletir apenas a identidade humana configurada no Git do repositório (`user.name` / `user.email`).
